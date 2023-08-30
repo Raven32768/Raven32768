@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raven32768
+- 👋 Hi, I’m RavenD. :) @Raven32768
 - 👀 I’m interested developing and fostering a healthy attitude to the agi. I am working  with things like
 - creating and improving training datasets, fine-tuning and data augmentation, and intent recognition - with
 - a view to helping to foster a healthy paradigm for the agi through the use of information that is a
